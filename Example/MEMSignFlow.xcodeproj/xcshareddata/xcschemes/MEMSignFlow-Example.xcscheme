@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-               BuildableName = "MEMSignFlow_Example.app"
-               BlueprintName = "MEMSignFlow_Example"
+               BuildableName = "MEMSignFlowExample.app"
+               BlueprintName = "MEMSignFlowExample"
                ReferencedContainer = "container:MEMSignFlow.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,8 +29,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "MEMSignFlow_Tests.xctest"
-               BlueprintName = "MEMSignFlow_Tests"
+               BuildableName = "MEMSignFlowTests.xctest"
+               BlueprintName = "MEMSignFlowTests"
                ReferencedContainer = "container:MEMSignFlow.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -48,8 +48,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "607FACE41AFB9204008FA782"
-               BuildableName = "MEMSignFlow_Tests.xctest"
-               BlueprintName = "MEMSignFlow_Tests"
+               BuildableName = "MEMSignFlowTests.xctest"
+               BlueprintName = "MEMSignFlowTests"
                ReferencedContainer = "container:MEMSignFlow.xcodeproj">
             </BuildableReference>
          </TestableReference>
@@ -58,8 +58,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "MEMSignFlow_Example.app"
-            BlueprintName = "MEMSignFlow_Example"
+            BuildableName = "MEMSignFlowExample.app"
+            BlueprintName = "MEMSignFlowExample"
             ReferencedContainer = "container:MEMSignFlow.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -82,8 +82,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "MEMSignFlow_Example.app"
-            BlueprintName = "MEMSignFlow_Example"
+            BuildableName = "MEMSignFlowExample.app"
+            BlueprintName = "MEMSignFlowExample"
             ReferencedContainer = "container:MEMSignFlow.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -101,8 +101,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "607FACCF1AFB9204008FA782"
-            BuildableName = "MEMSignFlow_Example.app"
-            BlueprintName = "MEMSignFlow_Example"
+            BuildableName = "MEMSignFlowExample.app"
+            BlueprintName = "MEMSignFlowExample"
             ReferencedContainer = "container:MEMSignFlow.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>

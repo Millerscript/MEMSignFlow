@@ -13,8 +13,8 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
-		73C465C1E726BAA2ECC43A8A /* Pods_MEMSignFlow_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C96BA94D3D54D06622D1015A /* Pods_MEMSignFlow_Example.framework */; };
-		D8E06B6A12098AA69B8150BD /* Pods_MEMSignFlow_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EB96DDB4FE8B78EF464820C /* Pods_MEMSignFlow_Tests.framework */; };
+		73C465C1E726BAA2ECC43A8A /* Pods_MEMSignFlowExample.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C96BA94D3D54D06622D1015A /* Pods_MEMSignFlowExample.framework */; };
+		D8E06B6A12098AA69B8150BD /* Pods_MEMSignFlowTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2EB96DDB4FE8B78EF464820C /* Pods_MEMSignFlowTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,25 +28,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0C7DFF521457A5B90365A596 /* Pods-MEMSignFlow_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MEMSignFlow_Tests.release.xcconfig"; path = "Target Support Files/Pods-MEMSignFlow_Tests/Pods-MEMSignFlow_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		16C85F6B5FE786CF7383BA69 /* Pods-MEMSignFlow_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MEMSignFlow_Example.debug.xcconfig"; path = "Target Support Files/Pods-MEMSignFlow_Example/Pods-MEMSignFlow_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		2EB96DDB4FE8B78EF464820C /* Pods_MEMSignFlow_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MEMSignFlow_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0C7DFF521457A5B90365A596 /* Pods-MEMSignFlowTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MEMSignFlowTests.release.xcconfig"; path = "Target Support Files/Pods-MEMSignFlowTests/Pods-MEMSignFlowTests.release.xcconfig"; sourceTree = "<group>"; };
+		16C85F6B5FE786CF7383BA69 /* Pods-MEMSignFlowExample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MEMSignFlowExample.debug.xcconfig"; path = "Target Support Files/Pods-MEMSignFlowExample/Pods-MEMSignFlowExample.debug.xcconfig"; sourceTree = "<group>"; };
+		2EB96DDB4FE8B78EF464820C /* Pods_MEMSignFlowTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MEMSignFlowTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		44C0B77E17AFF87758539F64 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		6059B575BE3E6D3EBA5B59EE /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		607FACD01AFB9204008FA782 /* MEMSignFlow_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MEMSignFlow_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		607FACD01AFB9204008FA782 /* MEMSignFlowExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MEMSignFlowExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		607FACD71AFB9204008FA782 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		607FACDA1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		607FACDC1AFB9204008FA782 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		607FACDF1AFB9204008FA782 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		607FACE51AFB9204008FA782 /* MEMSignFlow_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MEMSignFlow_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		607FACE51AFB9204008FA782 /* MEMSignFlowTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MEMSignFlowTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		B5F83E5D35124CE7CA253C98 /* Pods-MEMSignFlow_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MEMSignFlow_Example.release.xcconfig"; path = "Target Support Files/Pods-MEMSignFlow_Example/Pods-MEMSignFlow_Example.release.xcconfig"; sourceTree = "<group>"; };
+		B5F83E5D35124CE7CA253C98 /* Pods-MEMSignFlowExample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MEMSignFlowExample.release.xcconfig"; path = "Target Support Files/Pods-MEMSignFlowExample/Pods-MEMSignFlowExample.release.xcconfig"; sourceTree = "<group>"; };
 		C6260D57844CE29C640F2B80 /* MEMSignFlow.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = MEMSignFlow.podspec; path = ../MEMSignFlow.podspec; sourceTree = "<group>"; };
-		C96BA94D3D54D06622D1015A /* Pods_MEMSignFlow_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MEMSignFlow_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		F982A162F2D503D84E8FF721 /* Pods-MEMSignFlow_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MEMSignFlow_Tests.debug.xcconfig"; path = "Target Support Files/Pods-MEMSignFlow_Tests/Pods-MEMSignFlow_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		C96BA94D3D54D06622D1015A /* Pods_MEMSignFlowExample.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MEMSignFlowExample.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F982A162F2D503D84E8FF721 /* Pods-MEMSignFlowTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MEMSignFlowTests.debug.xcconfig"; path = "Target Support Files/Pods-MEMSignFlowTests/Pods-MEMSignFlowTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				73C465C1E726BAA2ECC43A8A /* Pods_MEMSignFlow_Example.framework in Frameworks */,
+				73C465C1E726BAA2ECC43A8A /* Pods_MEMSignFlowExample.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,7 +62,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8E06B6A12098AA69B8150BD /* Pods_MEMSignFlow_Tests.framework in Frameworks */,
+				D8E06B6A12098AA69B8150BD /* Pods_MEMSignFlowTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,8 +84,8 @@
 		607FACD11AFB9204008FA782 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				607FACD01AFB9204008FA782 /* MEMSignFlow_Example.app */,
-				607FACE51AFB9204008FA782 /* MEMSignFlow_Tests.xctest */,
+				607FACD01AFB9204008FA782 /* MEMSignFlowExample.app */,
+				607FACE51AFB9204008FA782 /* MEMSignFlowTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -142,8 +142,8 @@
 		BFD41783F204390F7C586008 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				C96BA94D3D54D06622D1015A /* Pods_MEMSignFlow_Example.framework */,
-				2EB96DDB4FE8B78EF464820C /* Pods_MEMSignFlow_Tests.framework */,
+				C96BA94D3D54D06622D1015A /* Pods_MEMSignFlowExample.framework */,
+				2EB96DDB4FE8B78EF464820C /* Pods_MEMSignFlowTests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -151,10 +151,10 @@
 		EBADD4461D700E8AF285E6B7 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				16C85F6B5FE786CF7383BA69 /* Pods-MEMSignFlow_Example.debug.xcconfig */,
-				B5F83E5D35124CE7CA253C98 /* Pods-MEMSignFlow_Example.release.xcconfig */,
-				F982A162F2D503D84E8FF721 /* Pods-MEMSignFlow_Tests.debug.xcconfig */,
-				0C7DFF521457A5B90365A596 /* Pods-MEMSignFlow_Tests.release.xcconfig */,
+				16C85F6B5FE786CF7383BA69 /* Pods-MEMSignFlowExample.debug.xcconfig */,
+				B5F83E5D35124CE7CA253C98 /* Pods-MEMSignFlowExample.release.xcconfig */,
+				F982A162F2D503D84E8FF721 /* Pods-MEMSignFlowTests.debug.xcconfig */,
+				0C7DFF521457A5B90365A596 /* Pods-MEMSignFlowTests.release.xcconfig */,
 			);
 			name = Pods;
 			path = Pods;
@@ -163,9 +163,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		607FACCF1AFB9204008FA782 /* MEMSignFlow_Example */ = {
+		607FACCF1AFB9204008FA782 /* MEMSignFlowExample */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MEMSignFlow_Example" */;
+			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MEMSignFlowExample" */;
 			buildPhases = (
 				635CD6799BC6F7DF37CE91B7 /* [CP] Check Pods Manifest.lock */,
 				607FACCC1AFB9204008FA782 /* Sources */,
@@ -177,14 +177,14 @@
 			);
 			dependencies = (
 			);
-			name = MEMSignFlow_Example;
+			name = MEMSignFlowExample;
 			productName = MEMSignFlow;
-			productReference = 607FACD01AFB9204008FA782 /* MEMSignFlow_Example.app */;
+			productReference = 607FACD01AFB9204008FA782 /* MEMSignFlowExample.app */;
 			productType = "com.apple.product-type.application";
 		};
-		607FACE41AFB9204008FA782 /* MEMSignFlow_Tests */ = {
+		607FACE41AFB9204008FA782 /* MEMSignFlowTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 607FACF21AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MEMSignFlow_Tests" */;
+			buildConfigurationList = 607FACF21AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MEMSignFlowTests" */;
 			buildPhases = (
 				9E002D66AFA0C12FFC2A975C /* [CP] Check Pods Manifest.lock */,
 				607FACE11AFB9204008FA782 /* Sources */,
@@ -196,9 +196,9 @@
 			dependencies = (
 				607FACE71AFB9204008FA782 /* PBXTargetDependency */,
 			);
-			name = MEMSignFlow_Tests;
+			name = MEMSignFlowTests;
 			productName = Tests;
-			productReference = 607FACE51AFB9204008FA782 /* MEMSignFlow_Tests.xctest */;
+			productReference = 607FACE51AFB9204008FA782 /* MEMSignFlowTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -235,8 +235,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				607FACCF1AFB9204008FA782 /* MEMSignFlow_Example */,
-				607FACE41AFB9204008FA782 /* MEMSignFlow_Tests */,
+				607FACCF1AFB9204008FA782 /* MEMSignFlowExample */,
+				607FACE41AFB9204008FA782 /* MEMSignFlowTests */,
 			);
 		};
 /* End PBXProject section */
@@ -268,7 +268,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-MEMSignFlow_Example/Pods-MEMSignFlow_Example-frameworks.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-MEMSignFlowExample/Pods-MEMSignFlowExample-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/MEMSignFlow/MEMSignFlow.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
@@ -277,7 +277,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MEMSignFlow_Example/Pods-MEMSignFlow_Example-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-MEMSignFlowExample/Pods-MEMSignFlowExample-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		635CD6799BC6F7DF37CE91B7 /* [CP] Check Pods Manifest.lock */ = {
@@ -295,7 +295,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MEMSignFlow_Example-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MEMSignFlowExample-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -317,7 +317,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-MEMSignFlow_Tests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-MEMSignFlowTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -349,7 +349,7 @@
 /* Begin PBXTargetDependency section */
 		607FACE71AFB9204008FA782 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 607FACCF1AFB9204008FA782 /* MEMSignFlow_Example */;
+			target = 607FACCF1AFB9204008FA782 /* MEMSignFlowExample */;
 			targetProxy = 607FACE61AFB9204008FA782 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -475,7 +475,7 @@
 		};
 		607FACF01AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 16C85F6B5FE786CF7383BA69 /* Pods-MEMSignFlow_Example.debug.xcconfig */;
+			baseConfigurationReference = 16C85F6B5FE786CF7383BA69 /* Pods-MEMSignFlowExample.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MEMSignFlow/Info.plist;
@@ -490,7 +490,7 @@
 		};
 		607FACF11AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B5F83E5D35124CE7CA253C98 /* Pods-MEMSignFlow_Example.release.xcconfig */;
+			baseConfigurationReference = B5F83E5D35124CE7CA253C98 /* Pods-MEMSignFlowExample.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = MEMSignFlow/Info.plist;
@@ -505,7 +505,7 @@
 		};
 		607FACF31AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F982A162F2D503D84E8FF721 /* Pods-MEMSignFlow_Tests.debug.xcconfig */;
+			baseConfigurationReference = F982A162F2D503D84E8FF721 /* Pods-MEMSignFlowTests.debug.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
@@ -521,13 +521,13 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MEMSignFlow_Example.app/MEMSignFlow_Example";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MEMSignFlowExample.app/MEMSignFlowExample";
 			};
 			name = Debug;
 		};
 		607FACF41AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 0C7DFF521457A5B90365A596 /* Pods-MEMSignFlow_Tests.release.xcconfig */;
+			baseConfigurationReference = 0C7DFF521457A5B90365A596 /* Pods-MEMSignFlowTests.release.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
@@ -539,7 +539,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
 				SWIFT_VERSION = 4.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MEMSignFlow_Example.app/MEMSignFlow_Example";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/MEMSignFlowExample.app/MEMSignFlowExample";
 			};
 			name = Release;
 		};
@@ -555,7 +555,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MEMSignFlow_Example" */ = {
+		607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MEMSignFlowExample" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				607FACF01AFB9204008FA782 /* Debug */,
@@ -564,7 +564,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		607FACF21AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MEMSignFlow_Tests" */ = {
+		607FACF21AFB9204008FA782 /* Build configuration list for PBXNativeTarget "MEMSignFlowTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				607FACF31AFB9204008FA782 /* Debug */,
